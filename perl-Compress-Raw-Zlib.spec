@@ -6,7 +6,7 @@
 %define	pdir	Compress
 %define	pnam	Raw-Zlib
 Summary:	Compress::Raw::Zlib - Low-Level Interface to zlib compression library
-Summary(pl):	Compress::Raw::Zlib - niskopoziomowy interfejs do biblioteki kompresji zlib
+Summary(pl.UTF-8):   Compress::Raw::Zlib - niskopoziomowy interfejs do biblioteki kompresji zlib
 Name:		perl-Compress-Raw-Zlib
 Version:	2.001
 Release:	1
@@ -26,8 +26,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 The Compress::Raw::Zlib module provides a Perl interface to the zlib
 compression library.
 
-%description -l pl
-Modu³ Compress::Raw::Zlib udostêpnia perlowy interfejs do biblioteki
+%description -l pl.UTF-8
+ModuÅ‚ Compress::Raw::Zlib udostÄ™pnia perlowy interfejs do biblioteki
 kompresji zlib.
 
 %prep
