@@ -13,7 +13,7 @@ Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Compress/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	http://search.cpan.org/CPAN/authors/id/P/PM/PMQS/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	5b637dbb36955b13db261f049fe529d9
 URL:		http://search.cpan.org/dist/Compress-Raw-Zlib/
 BuildRequires:	perl-devel >= 1:5.8.0
