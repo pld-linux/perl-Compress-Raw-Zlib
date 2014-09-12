@@ -68,7 +68,6 @@ rm -rf $RPM_BUILD_ROOT
 %doc Changes README
 %{perl_vendorarch}/Compress/Raw/Zlib.pm
 %dir %{perl_vendorarch}/auto/Compress/Raw/Zlib
-%{perl_vendorarch}/auto/Compress/Raw/Zlib/Zlib.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Compress/Raw/Zlib/Zlib.so
 %{perl_vendorarch}/auto/Compress/Raw/Zlib/autosplit.ix
 %{_mandir}/man3/Compress::Raw::Zlib.3pm*
