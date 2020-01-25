@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Compress
 %define	pnam	Raw-Zlib
 Summary:	Compress::Raw::Zlib - Low-Level Interface to zlib compression library
