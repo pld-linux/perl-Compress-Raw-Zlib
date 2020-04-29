@@ -7,13 +7,13 @@
 Summary:	Compress::Raw::Zlib - Low-Level Interface to zlib compression library
 Summary(pl.UTF-8):	Compress::Raw::Zlib - niskopoziomowy interfejs do biblioteki kompresji zlib
 Name:		perl-Compress-Raw-Zlib
-Version:	2.086
+Version:	2.093
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Compress/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	2a6e5eca40d229690dd9a63d331084b2
+# Source0-md5:	1b141900de64327094baac8be4f43d6a
 URL:		http://search.cpan.org/dist/Compress-Raw-Zlib/
 BuildRequires:	perl-ExtUtils-MakeMaker >= 5.16
 BuildRequires:	perl-devel >= 1:5.8.0
